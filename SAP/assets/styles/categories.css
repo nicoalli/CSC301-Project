@@ -1,0 +1,57 @@
+.header {
+  overflow: hidden;
+  background-color: #0d1848;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+}
+
+body {
+  background: #cecfcb;
+}
+
+#services {
+  height: 800px;
+  width: 55%;
+  background: white;
+  float: right;
+  margin-right: 4rem;
+}
+
+.service {
+  padding-left: 20px;
+  display: none;
+  overflow: auto;
+}
+
+/*#Accommodation-Renewal {
+  font-size : 13px;
+  overflow: scroll;
+}*/
+
+button {
+  border: 3px solid #fff;
+  color: #fff;
+  /* background: none; */
+  cursor: pointer;
+  padding: 10px 50px;
+  display: inline-block;
+  margin: 0 0 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+  outline: none;
+  position: relative;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 25%;
+  background-color: #002A5C;
+}
+
+button:hover {
+  border: 3px solid #fff;
+  background-color: #008BB0;
+  color: #fff;
+}
