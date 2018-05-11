@@ -16,7 +16,10 @@ $(document).ready(function() {
           center:{ cat1:{length:0.5}, cat2:{length:0.5}, cat3:{length:0.5}, cat4:{length:0.5}, cat5:{length:0.5} }
         }
       };
-  var center = {
+
+  sys.graft(allServices);
+
+  /*var center = {
     nodes:{center:{mass:'3',color:'#00215C',shape:'dot',label:'All Accessibility Services'}}
   }
 
@@ -46,5 +49,5 @@ $(document).ready(function() {
           sys.graft(filtered);
       });
     }
-  });
+  });*/
 });
