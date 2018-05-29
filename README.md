@@ -1,9 +1,5 @@
-# project-team-21
-CSC301, Winter 2018, team project.
+# Student Accessibility Portal
 
-# Getting Started
+Student Accessibility Portal (SAP) is a website that enables University of Toronto students get information and interact with accessibility services by bringing information from various sources into one platform. Currently, online accessibility services for the university are on different websites such as one general one on Student Life (https://www.studentlife.utoronto.ca/as), one for accommodations for tests and exams (http://www.ace.utoronto.ca/tes/register.html), and one with the map of accessibility locations on campus (http://map.utoronto.ca/). Many students at the university use accessibility in one or more forms in relation to physical accessibility and mental accessibility, for example wheelchairs accessible building locations and needing notes respectively. SAP integrates all these services into one website with information including locations, note-taking, letters of accommodation, among other things. SAP is personalized for each user, as each person has their own types of accessibility needs.It uses visual graphs to sort information and make it easy for users to get what they need based on what they deem is relevant to their situation.
 
-- clone repository
-- use command npm install to set up dependencies and node server
-- use command npm start to launch the program
-- go to localhost:3030
+This project was created for CSC301 class at University of Toronto.
